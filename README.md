@@ -19,3 +19,8 @@ local version:
 ---
 ## Online Training and degree
 ### Udacity Deep Learning Nano Degree
+
+## Reference
+1. Deep Learning is not the AI future ：
+English Link [English](https://www.linkedin.com/pulse/deep-learning-ai-future-fabio-ciucci/)
+中文链接 [Chinese](http://www.infoq.com/cn/articles/deep-learning-is-not-the-ai-future?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BrQqqfRgJR027jFpjnBaI4Q%3D%3D)
