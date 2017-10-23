@@ -61,7 +61,7 @@ English Link [English](https://www.linkedin.com/pulse/deep-learning-ai-future-fa
 6. Facebook
 
 ## Platform
-1. Tensorflow
+1. Tensorflow [Git](https://github.com/tensorflow/tensorflow) [Website](https://www.tensorflow.org/) [中文](tensorflow.google.cn)
 2. XGBoost
 3. MXNet [English](https://github.com/dmlc/mxnet) amazon 推荐
 4. PMLS - Petuum
@@ -85,3 +85,6 @@ English Link [English](https://www.linkedin.com/pulse/deep-learning-ai-future-fa
 12. DMLC - Distributed (Deep) Machine Learning Community [English](http://dmlc.ml/)
  [Git](https://github.com/dmlc)
 0. PS - parameter server
+
+## Some basic concept:
+1.数学之美 Awesome!!! Fourier transformation [Simle and Direct](http://blog.jobbole.com/70549/)
