@@ -1,15 +1,26 @@
 # AI
 
 ---
+## Do It
+### 1. kaggle
+
+
+---
+
+
+---
+### Report
+
+0. Sinovation ventures:  创新工厂 [English](https://www.eurasiagroup.net/live-post/ai-in-china-cutting-through-the-hype?trk=article_share_wechat)
+
+
+---
 ## 1. Hot Area
 
 ### Machine Learning -> Deep Learning
 ### XGBoost
 ### Search Algotithm
----
-## Do It
-### 1. kaggle
----
+
 ## Graphic and Visual Recognition
 
 1. http://cs231n.github.io/
@@ -114,6 +125,7 @@ English Link [English](https://www.linkedin.com/pulse/deep-learning-ai-future-fa
 12. DMLC - Distributed (Deep) Machine Learning Community [English](http://dmlc.ml/)
  [Git](https://github.com/dmlc)
 0. PS - parameter server
+0.
 
 ## Some basic concept:
 1.数学之美 Awesome!!! Fourier transformation [Simle and Direct](http://blog.jobbole.com/70549/)
