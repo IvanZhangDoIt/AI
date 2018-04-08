@@ -1,4 +1,4 @@
-## Abbreviation
+## Universal Abbreviation
 0. GAN - Generative Adversarial Networks 生成对抗网络[中文](https://www.leiphone.com/news/201701/Kq6FvnjgbKK8Lh8N.html)
 0. CNN - Convolution Neural Networks 卷积神经网络
 0. RNN - Recurrent Neural Network 循环神经网络
@@ -21,3 +21,15 @@
  [Git](https://github.com/dmlc)
 0. PS - parameter server
 0. MTCNN - Multi-task Cascaded Convolutional Networks [English](https://kpzhang93.github.io/MTCNN_face_detection_alignment/)
+
+## Medical 
+
+0. V-Net - medial algorithm [Blog](https://blogs.nvidia.com/blog/2018/03/28/ai-healthcare-gtc/) can automatically measure anatomy and assess functionality
+0. AutoMap - medial application. [Blog](https://blogs.nvidia.com/blog/2018/03/28/ai-healthcare-gtc/)  from the MGH Martinos center, can shorten acquisition time of MRI and boosts image quality
+0. Clara - [Blog](https://blogs.nvidia.com/blog/2018/03/28/ai-healthcare-gtc/) Medical Image Supercomputer , from Nvidia
+0. Cinematic rendering -  [Blog](https://blogs.nvidia.com/blog/2018/03/28/ai-healthcare-gtc/) pioneered by Elliot Fishman at Johns Hopkins University brings a new level of quality, ultimately saving time for radiologists and improving patient outcomes.
+
+## Companies
+0. Subtle Medical - [Website](https://subtlemedical.com/) a company which  is improving medical imaging for better acquisition, reconstruction, processing and analysis 
+0. AiFi - AiFi, which is building checkout-free systems for stores of all sizes
+0. Kinema Systems - [Website](http://www.kinemasystems.com/)  which is creating robotics for logistics and manufacturing.

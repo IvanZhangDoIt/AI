@@ -13,3 +13,4 @@
 0. PyTorch - Facebook for Scientific Research
 0. Caffe2 - Facebook for Engineering
 0. HiAI - Huawei
+0. Nvidia - Project Clara [Blog](https://blogs.nvidia.com/blog/2018/03/28/ai-healthcare-gtc/)
