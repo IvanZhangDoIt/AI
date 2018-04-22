@@ -21,6 +21,7 @@
  [Git](https://github.com/dmlc)
 0. PS - parameter server
 0. MTCNN - Multi-task Cascaded Convolutional Networks [English](https://kpzhang93.github.io/MTCNN_face_detection_alignment/)
+0. MCTS - Monte Carlo Tree Search, Monte Carlo rollout - Monte Carlo 推演
 
 ## Medical 
 
