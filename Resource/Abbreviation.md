@@ -22,6 +22,7 @@
 0. PS - parameter server
 0. MTCNN - Multi-task Cascaded Convolutional Networks [English](https://kpzhang93.github.io/MTCNN_face_detection_alignment/)
 0. MCTS - Monte Carlo Tree Search, Monte Carlo rollout - Monte Carlo 推演
+0. Facebook DeepMask , SharpMask [GitHub](https://github.com/facebookresearch/deepmask)
 
 ## Medical 
 
@@ -29,6 +30,7 @@
 0. AutoMap - medial application. [Blog](https://blogs.nvidia.com/blog/2018/03/28/ai-healthcare-gtc/)  from the MGH Martinos center, can shorten acquisition time of MRI and boosts image quality
 0. Clara - [Blog](https://blogs.nvidia.com/blog/2018/03/28/ai-healthcare-gtc/) Medical Image Supercomputer , from Nvidia
 0. Cinematic rendering -  [Blog](https://blogs.nvidia.com/blog/2018/03/28/ai-healthcare-gtc/) pioneered by Elliot Fishman at Johns Hopkins University brings a new level of quality, ultimately saving time for radiologists and improving patient outcomes.
+0. NifyNet - [GitHub](https://github.com/NifTK/NiftyNet)
 
 ## Companies
 0. Subtle Medical - [Website](https://subtlemedical.com/) a company which  is improving medical imaging for better acquisition, reconstruction, processing and analysis 
