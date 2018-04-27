@@ -36,3 +36,8 @@
 0. Subtle Medical - [Website](https://subtlemedical.com/) a company which  is improving medical imaging for better acquisition, reconstruction, processing and analysis 
 0. AiFi - AiFi, which is building checkout-free systems for stores of all sizes
 0. Kinema Systems - [Website](http://www.kinemasystems.com/)  which is creating robotics for logistics and manufacturing.
+
+## Nvidia
+1. cuDNN - CUDA deeping neural network [official](https://developer.nvidia.com/cudnn)
+2. cuBLAS - Dense Linear Algebra on GPUs [official](https://developer.nvidia.com/cublas) 
+3. NCCL - NVIDIA Collective Communications Library  [official](https://developer.nvidia.com/nccl) [Presentation](http://on-demand.gputechconf.com/gtc/2017/presentation/s7155-jeaugey-nccl.pdf) [video](http://on-demand-gtc.gputechconf.com/gtcnew/on-demand-gtc.php?searchByKeyword=S7155&searchItems=session_id&sessionTopic=&sessionEvent=&sessionYear=&sessionFormat=&submit=&select=)
