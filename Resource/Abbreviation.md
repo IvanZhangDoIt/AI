@@ -23,6 +23,7 @@
 0. MTCNN - Multi-task Cascaded Convolutional Networks [English](https://kpzhang93.github.io/MTCNN_face_detection_alignment/)
 0. MCTS - Monte Carlo Tree Search, Monte Carlo rollout - Monte Carlo 推演
 0. Facebook DeepMask , SharpMask [GitHub](https://github.com/facebookresearch/deepmask)
+0. XLA
 
 ## Medical 
 

@@ -20,3 +20,8 @@
 # Benchmark
 
 1. wwww.top500.org ,  FP64 , Tensor = FP64/16
+
+# Platform Core Technique
+1. GLoo
+2. NNPACK
+3. FAISS
