@@ -36,3 +36,17 @@ Need more effort thinking:
 2. Rabiner's  Tutorial on hidden Markov Models and selected applications in speech recognition [link](http://www.cs.ubc.ca/~murphyk/Bayes/rabiner.pdf) [errata](http://alumni.media.mit.edu/~rahimi/rabiner/rabiner-errata/)
 3. HMM Tookit [link](http://htk.eng.cam.ac.uk/)
 4. Segmentally Boosted HMMs [Gesture and Activity Recognition Tookkit](https://wiki.cc.gatech.edu/ccg/projects/gt2k/gt2k) [Pei Yin's dissertation](https://smartech.gatech.edu/handle/1853/33939)
+6. Baum-Welch is one of Expectation-Maximization algorithm [link](https://en.wikipedia.org/wiki/Baum%E2%80%93Welch_algorithm)  
+7. hmmlearn library [link](https://hmmlearn.readthedocs.io/en/latest/) 
+   -  The HMM is completely determined by π, A and θ, how to get them , refer to Baum-Welch EM algorithm in wiki [link](https://en.wikipedia.org/wiki/Baum%E2%80%93Welch_algorithm) 
+0. Log Likelihood and Likelihood in Gaussian Distribution [link](https://math.stackexchange.com/questions/892832/why-we-consider-log-likelihood-instead-of-likelihood-in-gaussian-distribution)
+0. Bayesian Information Criterion(BIC) [link]( http://www2.imm.dtu.dk/courses/02433/doc/ch6_slides.pdf)
+    - select the model with the lowest Bayesian Information Criterion(BIC) score
+    http://www2.imm.dtu.dk/courses/02433/doc/ch6_slides.pdf
+    - Bayesian information criteria: BIC = -2 * logL + p * logN
+0.  Discriminative Information Criterion [link]
+    - Biem, Alain. "A model selection criterion for classification: Application to hmm topology optimization."
+    Document Analysis and Recognition, 2003. Proceedings. Seventh International Conference on. IEEE, 2003.
+    http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.58.6208&rep=rep1&type=pdf
+    https://pdfs.semanticscholar.org/ed3d/7c4a5f607201f3848d4c02dd9ba17c791fc2.pdf
+    - DIC = log(P(X(i)) - 1/(M-1)SUM(log(P(X(all but i))
