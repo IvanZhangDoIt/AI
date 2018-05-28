@@ -9,3 +9,7 @@
    [Paper](https://distill.pub/2018/building-blocks/)
 
 0. To be continue   
+
+
+## Author's blog
+1. rgb - [blog](http://www.rossgirshick.info/)  author of RCNN-> fast RCNN
