@@ -28,3 +28,13 @@
 0. ResNeXt - Aggregated Residual Transformations for Deep Neural Networks [Paper](https://arxiv.org/abs/1611.05431)
 0. WideResNet - Wide Residual Networks [Paper](https://arxiv.org/abs/1605.07146)
 0. ResNet Advance - Identity Mappings in Deep Residual Networks [Paper](https://github.com/KaimingHe/resnet-1k-layers)
+0. ResNet and FastRNN [link](https://blog.csdn.net/lanran2/article/details/79057994)
+
+## Inception Families
+1. [v1] Going Deeper with Convolutions, 6.67% test error [Link](http://arxiv.org/abs/1409.4842) 
+1. [v2] Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, 4.8% test error 
+[link](http://arxiv.org/abs/1502.03167) 
+1. [v3] Rethinking the Inception Architecture for Computer Vision, 3.5% test error 
+[Link](http://arxiv.org/abs/1512.00567)
+1. [v4] Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning, 3.08% test error 
+[Link](http://arxiv.org/abs/1602.07261)
