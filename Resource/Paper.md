@@ -36,6 +36,7 @@
 
 ## Inception Families
 
+1. Overview [Link](https://blog.csdn.net/u014114990/article/details/52583912)
 1. [v1] Going Deeper with Convolutions, 6.67% test error [Link](http://arxiv.org/abs/1409.4842)
 1. [v2] Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, 4.8% test error [link](http://arxiv.org/abs/1502.03167)
 1. [v3] Rethinking the Inception Architecture for Computer Vision, 3.5% test error [Link](http://arxiv.org/abs/1512.00567)
