@@ -41,3 +41,7 @@
 1. [v2] Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, 4.8% test error [link](http://arxiv.org/abs/1502.03167)
 1. [v3] Rethinking the Inception Architecture for Computer Vision, 3.5% test error [Link](http://arxiv.org/abs/1512.00567)
 1. [v4] Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning, 3.08% test error [Link](http://arxiv.org/abs/1602.07261)
+
+## Optimization
+
+1. Adam [link](https://arxiv.org/pdf/1412.6980.pdf)
