@@ -24,6 +24,7 @@
 0. MCTS - Monte Carlo Tree Search, Monte Carlo rollout - Monte Carlo 推演
 0. Facebook DeepMask , SharpMask [GitHub](https://github.com/facebookresearch/deepmask)
 0. XLA
+0. U-net image segmentation
 
 ## Medical 
 
