@@ -25,6 +25,7 @@
 0. Facebook DeepMask , SharpMask [GitHub](https://github.com/facebookresearch/deepmask)
 0. XLA
 0. U-net image segmentation
+0. NASNet - Neural Architecture Search Network[link](https://arxiv.org/abs/1707.07012)
 
 ## Medical 
 
