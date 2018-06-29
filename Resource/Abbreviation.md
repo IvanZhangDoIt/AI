@@ -11,7 +11,9 @@
 0. Faster R CNN 基于 VGG16
 0. R-CNN : Regions with CNN features
 0. SSD - Single Shot MultiBox Detector
-0. YOLO - You Only Look Once
+0. YOLO - You Only Look Once [Paper](https://arxiv.org/abs/1506.02640)
+0. YOLO9000 - YOLO-V3[Paper](https://arxiv.org/abs/1612.08242) [Series and compare](https://pjreddie.com/darknet/yolo/)
+0. mAP-50 - 
 0. LTSM - Long Short Term Memory
 0. GBDT - Gradient boosting decision tree 梯度提升树
 0. 决策树 [中文](http://www.cnblogs.com/leoo2sk/archive/2010/09/19/decision-tree.html)
