@@ -1,8 +1,10 @@
+RAW - TBD
 
 # Medical Image processing:
 
 ## [medical strategy]
-http://www.biomedicalcomputationreview.org/content/deep-learning-and-future-%E2%80%A8biomedical-image-analysis
+
+1. [link](http://www.biomedicalcomputationreview.org/content/deep-learning-and-future-%E2%80%A8biomedical-image-analysis)
 
 ## [DICOM Python:pydicom]
 
@@ -49,5 +51,3 @@ https://blog.csdn.net/formlsl/article/details/80681488
 
 !!!! https://blog.csdn.net/xiangz_csdn/article/details/54691990
 http://www.openmicroscopy.org/
-
-
