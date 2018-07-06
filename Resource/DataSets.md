@@ -97,6 +97,8 @@
 
 23. Pascal VOC [link](http://host.robots.ox.ac.uk/pascal/VOC/)
 
+24. Archive of Many Outdoor Scenes [link](http://cs.uky.edu/~jacobs/datasets/amos/)
+
 ### NLP
 
 1. Enron Dataset [link](https://www.cs.cmu.edu/~./enron/)
