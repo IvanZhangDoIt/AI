@@ -99,6 +99,8 @@
 
 24. Archive of Many Outdoor Scenes [link](http://cs.uky.edu/~jacobs/datasets/amos/)
 
+25. Youtube face dataset [link](https://www.cs.tau.ac.il/~wolf/ytfaces/)
+
 ### NLP
 
 1. Enron Dataset [link](https://www.cs.cmu.edu/~./enron/)

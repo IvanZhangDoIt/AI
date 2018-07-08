@@ -35,6 +35,10 @@
 28. DeepFace - [link](https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf)
 29. NST - Neural Style Transfer. [Original Paper](https://arxiv.org/abs/1508.06576)
 30. Sub-Pixel Convolutional Neural Network - Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network [paper](https://arxiv.org/abs/1609.05158)
+31. t-SNE - t-distributed stochastic neighbor embeddings [tool and code](https://github.com/alexisbcook/tsne) [Paper](http://arxiv.org/abs/1301.3342)
+32. Saliency Maps
+33. Occlusion Experiments
+34. Guided Backpropagation
 
 ## Medical
 
