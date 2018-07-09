@@ -2,6 +2,19 @@ RAW - TBD
 
 # Medical Image processing:
 
+## Tech and Algorithm
+
+1. CLAHE (Contrast Limited Adaptive Histogram Equalization)
+   cv2.createCLAHE
+
+2. Change CT value with WW(Window Width), WL(Window Level), CT HU(hounsfield unit ，HU), Algorithm [link](https://blog.csdn.net/chenhuakang/article/details/79164134)
+
+## Libraries
+
+1. OpenCV
+2. Simple ITK
+3. Python Image Library, PIL
+
 ## [medical strategy]
 
 1. [link](http://www.biomedicalcomputationreview.org/content/deep-learning-and-future-%E2%80%A8biomedical-image-analysis)
