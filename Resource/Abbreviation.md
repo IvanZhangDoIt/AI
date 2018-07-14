@@ -39,6 +39,7 @@
 32. Saliency Maps
 33. Occlusion Experiments
 34. Guided Backpropagation
+35. Squeeze Net - [github](https://github.com/DeepScale/SqueezeNet) [Chinese](https://blog.csdn.net/csdnldp/article/details/78648543)
 
 ## Medical
 
