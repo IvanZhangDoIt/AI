@@ -1,6 +1,9 @@
 RAW - TBD
 
 # Medical Image processing:
+1. An Introduction to Biomedical Image Analysis with TensorFlow and DLTK [link](https://medium.com/tensorflow/an-introduction-to-biomedical-image-analysis-with-tensorflow-and-dltk-2c25304e7c13)
+
+2. Medical Image Analysis with Deep learning [Part1](https://www.kdnuggets.com/2017/03/medical-image-analysis-deep-learning.html) [Part2](https://www.kdnuggets.com/2017/04/medical-image-analysis-deep-learning-part-2.html)  [Part3](https://www.kdnuggets.com/2017/06/medical-image-analysis-deep-learning-part-3.html)
 
 ## Tech and Algorithm
 
@@ -9,17 +12,24 @@ RAW - TBD
 
 2. Change CT value with WW(Window Width), WL(Window Level), CT HU(hounsfield unit ，HU), Algorithm [link](https://blog.csdn.net/chenhuakang/article/details/79164134)
 
+3. U-Net - 
+
+4. NiffyNet - [official](http://niftynet.io/) [github](https://github.com/NifTK/NiftyNet) [Paper]
+
 ## Libraries
 
 1. OpenCV
-2. Simple ITK
+2. Simple ITK [official](http://www.simpleitk.org/)
 3. Python Image Library, PIL
+4. DLTK - [official](htps://dltk.github.io/) 
 
 ## [medical strategy]
 
 1. [link](http://www.biomedicalcomputationreview.org/content/deep-learning-and-future-%E2%80%A8biomedical-image-analysis)
 
 ## [DICOM Python:pydicom]
+
+
 
 https://www.raddq.com/dicom-processing-segmentation-visualization-in-python/
 
@@ -49,6 +59,7 @@ https://github.com/zhixuhao/unet
 https://blog.csdn.net/jiandanjinxin/article/details/60583223
 
 ## DICOM 影像分析 Overview
+1. Dicom is  easy [link](http://dicomiseasy.blogspot.com/)
 
 https://www.leiphone.com/news/201706/xwSoWmhNgkn34iGS.html
 https://www.kdnuggets.com/2017/03/medical-image-analysis-deep-learning.html
