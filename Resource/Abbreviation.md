@@ -42,6 +42,11 @@
 35. Squeeze Net - [github](https://github.com/DeepScale/SqueezeNet) [Chinese](https://blog.csdn.net/csdnldp/article/details/78648543)
 36. HDF5 -    [official](https://www.hdfgroup.org/)  [python - doc](http://docs.h5py.org/en/stable/#)
     import h5py
+37. Gradient clipping - [paper](https://arxiv.org/abs/1211.5063)
+38. LSTM - Long Short-Term Memory - vanishing gradient problem [Andrej Karpathy's lecture](https://www.youtube.com/watch?v=iX5V1WpxxkY) [Chris Olah's LSTM post](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) [Edwin Chen's LSTM post](http://blog.echen.me/2017/05/30/exploring-lstms/) [Tutorial](https://deeplearning4j.org/lstm.html) [RNN Effectiveness](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) [Implementation](https://github.com/karpathy/char-rnn)
+39. BPTT - Backward propagation Through Time
+40. GRU - Gated Recurrent Unit , one type of RNN
+41. LSTM with Peephole connection [Michael Guerzhoy's post](http://www.cs.toronto.edu/~guerzhoy/321/lec/W09/rnn_gated.pdf) [Steve Carell](http://despicableme.wikia.com/wiki/Felonius_Gru)
 
 ## Medical
 

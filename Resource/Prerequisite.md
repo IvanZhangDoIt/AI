@@ -12,3 +12,6 @@
 
   overview [Chinese](http://blog.csdn.net/anthea_luo/article/details/78767894)
 4. Wechat "遇见数据" "matongxue314"
+5. refresh - linear combination [link](http://linear.ups.edu/html/section-LC.html)
+6. refresh - matrix multiplication [link](https://en.wikipedia.org/wiki/Matrix_multiplication)
+7. refresh - partial derivative [link](http://www.columbia.edu/itc/sipa/math/calc_rules_multivar.html)
