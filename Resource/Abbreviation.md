@@ -2,7 +2,7 @@
 
 ## Universal Abbreviation
 
-1. GAN - Generative Adversarial Networks 生成对抗网络[中文](https://www.leiphone.com/news/201701/Kq6FvnjgbKK8Lh8N.html)
+1. GAN - Generative Adversarial Networks 生成对抗网络[中文](https://www.leiphone.com/news/201701/Kq6FvnjgbKK8Lh8N.html) [Practice](https://blog.csdn.net/qq_25737169/article/details/78532719) [GitHub](https://github.com/gitlimlab/SSGAN-Tensorflow)
 2. CNN - Convolution Neural Networks 卷积神经网络
 3. RNN - Recurrent Neural Network 循环神经网络
 4. R-CNN -> SppNET -> Fast-RCNN -> Faster-RCNN -> YOLO -> Faster R-CNN with SSD

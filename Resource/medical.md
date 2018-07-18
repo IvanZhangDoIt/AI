@@ -5,6 +5,8 @@ RAW - TBD
 
 2. Medical Image Analysis with Deep learning [Part1](https://www.kdnuggets.com/2017/03/medical-image-analysis-deep-learning.html) [Part2](https://www.kdnuggets.com/2017/04/medical-image-analysis-deep-learning-part-2.html)  [Part3](https://www.kdnuggets.com/2017/06/medical-image-analysis-deep-learning-part-3.html)
 
+3. DICOM Image processing group articles [link](https://blog.csdn.net/column/details/dicom.html)
+
 ## Tech and Algorithm
 
 1. CLAHE (Contrast Limited Adaptive Histogram Equalization)

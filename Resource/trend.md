@@ -13,3 +13,4 @@
 
 ## Author's blog
 1. rgb - [blog](http://www.rossgirshick.info/)  author of RCNN-> fast RCNN
+2. Report - AI 2018 [Notes from the AI frontier: Applications and value of deep learning](http://www.useit.com.cn/thread-18776-1-1.html)
