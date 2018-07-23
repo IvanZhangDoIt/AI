@@ -47,6 +47,10 @@
 39. BPTT - Backward propagation Through Time
 40. GRU - Gated Recurrent Unit , one type of RNN
 41. LSTM with Peephole connection [Michael Guerzhoy's post](http://www.cs.toronto.edu/~guerzhoy/321/lec/W09/rnn_gated.pdf) [Steve Carell](http://despicableme.wikia.com/wiki/Felonius_Gru)
+42. Glove - Global Vector for word representation
+43. Skip-Gram - 
+44. Word2Vec - 
+45. 
 
 ## Medical
 
