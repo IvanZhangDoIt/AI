@@ -48,9 +48,13 @@
 40. GRU - Gated Recurrent Unit , one type of RNN
 41. LSTM with Peephole connection [Michael Guerzhoy's post](http://www.cs.toronto.edu/~guerzhoy/321/lec/W09/rnn_gated.pdf) [Steve Carell](http://despicableme.wikia.com/wiki/Felonius_Gru)
 42. Glove - Global Vector for word representation
-43. Skip-Gram - 
+43. Skip-Gram - Paper, Mikolov et.al 2013 Efficient estimation of word representations in vector space
 44. Word2Vec - 
-45. 
+45. Seq2seq - sequence to sequence model
+46. BLEU score - Bilingual evaluation understudy(替补)
+47. Attention Model - 
+48. BRNN - Bidirectional RNN 
+49. CTC - Connectionist temporal classification . Paper - Graves et al. , 2006: Connectionist temporal classification: Labeling unsegmented sequence data with recurrent neural networks.
 
 ## Medical
 

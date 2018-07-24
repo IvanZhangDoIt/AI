@@ -45,3 +45,11 @@
 ## Optimization
 
 1. Adam [link](https://arxiv.org/pdf/1412.6980.pdf)
+
+
+## RNN
+
+### Attention Model
+
+1. Bahdanau et.al, 2014. Neual machine translation by jointly learning to align and translate.
+2. Xu et.al., 2015. Show , attend and tell: Neural image caption generation with visual attention. 
