@@ -1,6 +1,8 @@
 # TBD
 
 RAW - TBD
+## OSS
+
 
 ## Medical Image processing
 
@@ -25,6 +27,14 @@ RAW - TBD
 7. Cinematic rendering -  [Blog](https://blogs.nvidia.com/blog/2018/03/28/ai-healthcare-gtc/) pioneered by Elliot Fishman at Johns Hopkins University brings a new level of quality, ultimately saving time for radiologists and improving patient outcomes.
 8. NiffyNet - [official](http://niftynet.io/) [github](https://github.com/NifTK/NiftyNet) [Paper]
 
+### 3D CNN
+
+1. [CT影像肺结节](https://zhuanlan.zhihu.com/p/29984844) [OSS](https://tianchi.aliyun.com/forum/new_articleDetail.html?raceId=231601&postsId=2898&from=part)
+2. [Kaggle实例](http://www.sohu.com/a/138840776_610300)
+3. [detail](https://blog.csdn.net/u014154380/article/details/78395010)
+4. [PointNet](http://www.sohu.com/a/164139251_651893)
+5. [搭建 3D CNN](http://www.360doc.com/content/17/0421/10/10408243_647313566.shtml)
+
 ## Libraries
 
 1. OpenCV
@@ -45,6 +55,19 @@ https://github.com/pydicom/pydicom
 https://blog.csdn.net/dcxhun3/article/details/51777794
 
 https://tianchi.aliyun.com/forum/new_articleDetail.html?raceId=231601&postsId=2898&from=part
+
+### DICOM 3.0
+
+1. Communication Protocol [link](https://blog.csdn.net/zssureqh/article/details/50063265)
+
+## PACS
+
+1. Platform compare [link](https://dcm4che.atlassian.net/wiki/download/attachments/950333/ossdicom.pdf?version=1&modificationDate=1178887181318&cacheVersion=1&api=v2)
+2. Dcm4che  [wiki](5.https://dcm4che.atlassian.net/wiki/spaces/proj/overview?mode=global) [official](https://www.dcm4che.org/) [compileissue](https://blog.csdn.net/zssureqh/article/details/50811535)
+3. Clear Canvas [link](https://github.com/ClearCanvas/ClearCanvas/releases) [github](http://clearcanvas.github.io/)
+4. Connection method [link](https://wenku.baidu.com/view/05844b69af1ffc4ffe47acba.html)
+5. Dcm4chee [Docker](https://github.com/dpatriarche/docker-dcm4chee) [github](https://github.com/dcm4che/dcm4chee-arc-light)
+
 
 
 ## [Tianchi Strategy]:
@@ -81,6 +104,7 @@ https://blog.csdn.net/formlsl/article/details/80681488
 
 1. ImageJ
 2. OpenSlide  pathology [Official](https://openslide.org/) [windows](https://openslide.org/docs/windows/)
+3. MicroDICOM
 
 ## Reference
 
