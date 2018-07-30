@@ -22,6 +22,10 @@
 
 4. Input pipline performance [guide] - tensorflow org performance section
 
+5. Wide Deep Demo Example [Link](https://github.com/colinwke/wide_deep_demo)
+
+6. An Easy Guide to build new TensorFlow Datasets and Estimator with Keras Model [link](An Easy Guide to build new TensorFlow Datasets and Estimator with Keras Model)
+
 ## Coding -  High Level API
 
 1. TF High API practice [youtube](https://www.youtube.com/watch?v=4oNdaQk0Qv4)
@@ -34,6 +38,11 @@
 
 ## Models??
     Wide & Deep model? 
+
+
+## Dataset
+
+1. Google blog [link](https://developers.googleblog.com/2017/09/introducing-tensorflow-datasets.html)
 
 
 

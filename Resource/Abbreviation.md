@@ -67,13 +67,6 @@
 4. Cinematic rendering -  [Blog](https://blogs.nvidia.com/blog/2018/03/28/ai-healthcare-gtc/) pioneered by Elliot Fishman at Johns Hopkins University brings a new level of quality, ultimately saving time for radiologists and improving patient outcomes.
 5. NifyNet - [GitHub](https://github.com/NifTK/NiftyNet)
 
-## Companies
-
-1. Subtle Medical - [Website](https://subtlemedical.com/) a company which  is improving medical imaging for better acquisition, reconstruction, processing and analysis
-2. AiFi - AiFi, which is building checkout-free systems for stores of all sizes
-3. Kinema Systems - [Website](http://www.kinemasystems.com/)  which is creating robotics for logistics and manufacturing.
-4. Deep genomics - [Official Website](https://www.deepgenomics.com/)
-
 ## Nvidia
 
 1. cuDNN - CUDA deeping neural network [official](https://developer.nvidia.com/cudnn)
