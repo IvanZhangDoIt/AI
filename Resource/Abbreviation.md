@@ -2,7 +2,7 @@
 
 ## Universal Abbreviation
 
-1. GAN - Generative Adversarial Networks 生成对抗网络[中文](https://www.leiphone.com/news/201701/Kq6FvnjgbKK8Lh8N.html) [Practice](https://blog.csdn.net/qq_25737169/article/details/78532719) [GitHub](https://github.com/gitlimlab/SSGAN-Tensorflow)
+1. GAN - Generative Adversarial Networks 生成对抗网络[中文](https://www.leiphone.com/news/201701/Kq6FvnjgbKK8Lh8N.html)
 2. CNN - Convolution Neural Networks 卷积神经网络
 3. RNN - Recurrent Neural Network 循环神经网络
 4. R-CNN -> SppNET -> Fast-RCNN -> Faster-RCNN -> YOLO -> Faster R-CNN with SSD
@@ -45,20 +45,10 @@
 37. Gradient clipping - [paper](https://arxiv.org/abs/1211.5063)
 38. LSTM - Long Short-Term Memory - vanishing gradient problem [Andrej Karpathy's lecture](https://www.youtube.com/watch?v=iX5V1WpxxkY) [Chris Olah's LSTM post](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) [Edwin Chen's LSTM post](http://blog.echen.me/2017/05/30/exploring-lstms/) [Tutorial](https://deeplearning4j.org/lstm.html) [RNN Effectiveness](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) [Implementation](https://github.com/karpathy/char-rnn)
 39. BPTT - Backward propagation Through Time
-40. GRU - Gated Recurrent Unit , one type of RNN
+40. GRU - Gated Recurrent Unit , one type of RNN [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling)
 41. LSTM with Peephole connection [Michael Guerzhoy's post](http://www.cs.toronto.edu/~guerzhoy/321/lec/W09/rnn_gated.pdf) [Steve Carell](http://despicableme.wikia.com/wiki/Felonius_Gru)
-42. Glove - Global Vector for word representation
-43. Skip-Gram - Paper, Mikolov et.al 2013 Efficient estimation of word representations in vector space
-44. Word2Vec - 
-45. Seq2seq - sequence to sequence model
-46. BLEU score - Bilingual evaluation understudy(替补)
-47. Attention Model - 
-48. BRNN - Bidirectional RNN 
-49. CTC - Connectionist temporal classification . Paper - Graves et al. , 2006: Connectionist temporal classification: Labeling unsegmented sequence data with recurrent neural networks.
-50. Hierachical softmax classifier
-51. Negative sampling
-52. CBOW - Continuous Bag-of-Words Model.
 
+42. NLTK - Natual Language Toolkit [link](http://www.nltk.org/)
 ## Medical
 
 1. V-Net - medial algorithm [Blog](https://blogs.nvidia.com/blog/2018/03/28/ai-healthcare-gtc/) can automatically measure anatomy and assess functionality
@@ -66,6 +56,12 @@
 3. Clara - [Blog](https://blogs.nvidia.com/blog/2018/03/28/ai-healthcare-gtc/) Medical Image Supercomputer , from Nvidia
 4. Cinematic rendering -  [Blog](https://blogs.nvidia.com/blog/2018/03/28/ai-healthcare-gtc/) pioneered by Elliot Fishman at Johns Hopkins University brings a new level of quality, ultimately saving time for radiologists and improving patient outcomes.
 5. NifyNet - [GitHub](https://github.com/NifTK/NiftyNet)
+
+## Companies
+
+1. Subtle Medical - [Website](https://subtlemedical.com/) a company which  is improving medical imaging for better acquisition, reconstruction, processing and analysis
+2. AiFi - AiFi, which is building checkout-free systems for stores of all sizes
+3. Kinema Systems - [Website](http://www.kinemasystems.com/)  which is creating robotics for logistics and manufacturing.
 
 ## Nvidia
 
