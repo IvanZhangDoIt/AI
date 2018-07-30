@@ -47,8 +47,18 @@
 39. BPTT - Backward propagation Through Time
 40. GRU - Gated Recurrent Unit , one type of RNN [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling)
 41. LSTM with Peephole connection [Michael Guerzhoy's post](http://www.cs.toronto.edu/~guerzhoy/321/lec/W09/rnn_gated.pdf) [Steve Carell](http://despicableme.wikia.com/wiki/Felonius_Gru)
-
-42. NLTK - Natual Language Toolkit [link](http://www.nltk.org/)
+42. Glove - Global Vector for word representation
+43. Skip-Gram - Paper, Mikolov et.al 2013 Efficient estimation of word representations in vector space
+44. Word2Vec - 
+45. Seq2seq - sequence to sequence model
+46. BLEU score - Bilingual evaluation understudy(替补)
+47. Attention Model - 
+48. BRNN - Bidirectional RNN 
+49. CTC - Connectionist temporal classification . Paper - Graves et al. , 2006: Connectionist temporal classification: Labeling unsegmented sequence data with recurrent neural networks.
+50. Hierachical softmax classifier
+51. Negative sampling
+52. CBOW - Continuous Bag-of-Words Model.
+53. NLTK - Natual Language Toolkit [link](http://www.nltk.org/)
 ## Medical
 
 1. V-Net - medial algorithm [Blog](https://blogs.nvidia.com/blog/2018/03/28/ai-healthcare-gtc/) can automatically measure anatomy and assess functionality
