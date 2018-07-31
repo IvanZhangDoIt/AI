@@ -35,7 +35,8 @@ Image Generation 	LSTM 	-- 	256, 400, 800 	-- 	-- 	-- 	[paper](https://arxiv.org
 Question Answering 	LSTM 	2 	500 	-- 	300 	-- 	[paper](http://www.aclweb.org/anthology/P15-2116)
 Text Summarization 	GRU 		200 	Source: 119K, Target: 68K 	100 	0.001 	[paper](https://pdfs.semanticscholar.org/3fbc/45152f20403266b02c4c2adab26fb367522d.pdf)
 
-3. "How to generate a good word embedding" Lai , Siwei, IEEE Intelligence System 31.6(2016): 5-14 [link](https://arxiv.org/abs/1507.05523)
+3."How to generate a good word embedding" Lai , Siwei, IEEE Intelligence System 31.6(2016): 5-14 [link](https://arxiv.org/abs/1507.05523)
 
-4. [Systematic evaluation of CNN advances on the ImageNet](https://arxiv.org/abs/1606.02228)
-5. 
+4.[Systematic evaluation of CNN advances on the ImageNet](https://arxiv.org/abs/1606.02228)
+
+5.Tune your network [link](https://pcc.cs.byu.edu/2017/10/02/practical-advice-for-building-deep-neural-networks/) 
