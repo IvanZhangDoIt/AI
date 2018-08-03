@@ -2,9 +2,11 @@
 
 1. Tensorflow: The Confusing Parts  [link](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/)
 
-## Debug
+## Debug and Issues , Kengs
 
 1. A practical guide [link](https://wookayin.github.io/tensorflow-talk-debugging)
+
+2. Batch normalization issues [using with tf.layers and tf.estimators](https://github.com/tensorflow/tensorflow/issues/16455) [issue with Keras model_to_estimator <=r1.9 version ](https://github.com/tensorflow/tensorflow/issues/17950)
 
 
 ## Architecture and Structure
