@@ -6,3 +6,6 @@
 3. Kinema Systems - [Website](http://www.kinemasystems.com/)  which is creating robotics for logistics and manufacturing.
 4. Deep genomics - [Official Website](https://www.deepgenomics.com/)
 
+# NLP related library
+
+1. pydub - [github](https://github.com/jiaaro/pydub)

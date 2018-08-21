@@ -6,7 +6,12 @@
 
 1. A practical guide [link](https://wookayin.github.io/tensorflow-talk-debugging)
 
-2. Batch normalization issues [using with tf.layers and tf.estimators](https://github.com/tensorflow/tensorflow/issues/16455) [issue with Keras model_to_estimator <=r1.9 version ](https://github.com/tensorflow/tensorflow/issues/17950)
+2. Batch normalization issues [using with tf.layers and tf.estimators](https://github.com/tensorflow/tensorflow/issues/16455) [issue with Keras model_to_estimator <=r1.9 version ](https://github.com/tensorflow/tensorflow/issues/17950) 
+[keras functional API + BN + Estimator example]
+(https://github.com/GoogleCloudPlatform/training-data-analyst/tree/master/blogs/batch_normalization/mnist_classifier/trainer)
+
+3. Tensorflow has a modules call, tensorflow.python, in tensorflow keras source code:
+    from tensorflow.python.keras import backend as K
 
 
 ## Architecture and Structure
@@ -28,6 +33,8 @@
 
 6. An Easy Guide to build new TensorFlow Datasets and Estimator with Keras Model [link](An Easy Guide to build new TensorFlow Datasets and Estimator with Keras Model)
 
+7. Multi GPU platform comparison [link](https://medium.com/@iliakarmanov/multi-gpu-rosetta-stone-d4fa96162986)
+
 ## Coding -  High Level API
 
 1. TF High API practice [youtube](https://www.youtube.com/watch?v=4oNdaQk0Qv4)
@@ -47,4 +54,6 @@
 1. Google blog [link](https://developers.googleblog.com/2017/09/introducing-tensorflow-datasets.html)
 
 
+## Tensorflow vs Keras
 
+1. import mobilenet issue [link](https://github.com/keras-team/keras/issues/7431#)
