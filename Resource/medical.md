@@ -1,8 +1,6 @@
-# TBD
+# Mecial
 
-RAW - TBD
 ## OSS
-
 
 ## Medical Image processing
 
@@ -19,7 +17,7 @@ RAW - TBD
 
 2. Change CT value with WW(Window Width), WL(Window Level), CT HU(hounsfield unit ，HU), Algorithm [link](https://blog.csdn.net/chenhuakang/article/details/79164134)
 
-3. U-Net - 
+3. U-Net
 
 4. V-Net - medial algorithm [Blog](https://blogs.nvidia.com/blog/2018/03/28/ai-healthcare-gtc/) can automatically measure anatomy and assess functionality
 5. AutoMap - medial application. [Blog](https://blogs.nvidia.com/blog/2018/03/28/ai-healthcare-gtc/)  from the MGH Martinos center, can shorten acquisition time of MRI and boosts image quality
@@ -68,19 +66,15 @@ https://tianchi.aliyun.com/forum/new_articleDetail.html?raceId=231601&postsId=28
 4. Connection method [link](https://wenku.baidu.com/view/05844b69af1ffc4ffe47acba.html)
 5. Dcm4chee [Docker](https://github.com/dpatriarche/docker-dcm4chee) [github](https://github.com/dcm4che/dcm4chee-arc-light)
 
-
-
-## [Tianchi Strategy]:
+## [Tianchi Strategy]
 
 http://www.donews.com/technology/detail/21693540
 
-
-## [Nodule detection]:
+## [Nodule detection]
 
 https://github.com/lfz/DSB2017
 
-
-## [Keras and Tensorflow]:
+## [Keras and Tensorflow]
 
 https://www.learnopencv.com/keras-tutorial-transfer-learning-using-pre-trained-models/
 
