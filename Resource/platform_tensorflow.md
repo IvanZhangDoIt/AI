@@ -40,14 +40,17 @@
 1. TF High API practice [youtube](https://www.youtube.com/watch?v=4oNdaQk0Qv4)
 2. Machine Learning recipies series [youtube](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 3. coding tensorflow youtube - Coding Tensorflow
+4. Tensorflow hige level api is not mature like:
+    merge_all issue [link](https://github.com/tensorflow/tensorflow/issues/21412)
 
 
 # Tensorflow in production
+
 1. Tensorflow in production [youtube](https://www.youtube.com/watch?v=CxUc5FJF_9w)
 
 ## Models??
-    Wide & Deep model? 
 
+    Wide & Deep model? 
 
 ## Dataset
 
