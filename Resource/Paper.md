@@ -52,4 +52,11 @@
 ### Attention Model
 
 1. Bahdanau et.al, 2014. Neual machine translation by jointly learning to align and translate.
-2. Xu et.al., 2015. Show , attend and tell: Neural image caption generation with visual attention. 
+2. Xu et.al., 2015. Show , attend and tell: Neural image caption generation with visual attention.
+3. Attention Is All You Need [link](https://arxiv.org/abs/1706.03762) [talk](https://www.youtube.com/watch?v=rBCqOTEfxvg)
+4. Show, Attend and Tell: Neural Image Caption Generation with Visual Attention [pdf](https://arxiv.org/pdf/1502.03044.pdf)
+5. Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering [pdf](Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering)
+6. Video Paragraph Captioning Using Hierarchical Recurrent Neural Networks [pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S19-04.pdf)
+7. Every Moment Counts: Dense Detailed Labeling of Actions in Complex Videos [Every Moment Counts: Dense Detailed Labeling of Actions in Complex Videos]
+8. Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge [pdf](https://arxiv.org/pdf/1708.02711.pdf)
+9. Visual Question Answering: A Survey of Methods and Datasets [pdf](https://arxiv.org/pdf/1607.05910.pdf)
