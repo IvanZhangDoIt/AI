@@ -12,3 +12,4 @@
     [English](https://muratbuffalo.blogspot.sg/2017/07/a-comparison-of-distributed-machine.html)
 3. MXNet设计和实现简介 [Chinse](https://github.com/apache/incubator-mxnet/issues/797)
 4. drive.ai
+5. fasti.ai
