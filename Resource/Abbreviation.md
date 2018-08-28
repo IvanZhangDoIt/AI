@@ -59,7 +59,7 @@
 51. Negative sampling
 52. CBOW - Continuous Bag-of-Words Model.
 53. NLTK - Natual Language Toolkit [link](http://www.nltk.org/)
-54. Addicative , Multiplicative attention model. [link](https://arxiv.org/abs/1508.04025) [link](https://arxiv.org/abs/1409.0473)
+54. Additive , Multiplicative attention model. [link](https://arxiv.org/abs/1508.04025) [link](https://arxiv.org/abs/1409.0473)
 
 ## Medical
 
