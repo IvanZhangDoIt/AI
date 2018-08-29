@@ -1,3 +1,5 @@
+# Tensorflow
+
 ## Basics and Intuition
 
 1. Tensorflow: The Confusing Parts  [link](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/)
@@ -5,11 +7,10 @@
 ## Debug and Issues , Kengs
 
 1. A practical guide [link](https://wookayin.github.io/tensorflow-talk-debugging)
-
-2. Batch normalization issues [using with tf.layers and tf.estimators](https://github.com/tensorflow/tensorflow/issues/16455) [issue with Keras model_to_estimator <=r1.9 version ](https://github.com/tensorflow/tensorflow/issues/17950) 
-[keras functional API + BN + Estimator example]
-(https://github.com/GoogleCloudPlatform/training-data-analyst/tree/master/blogs/batch_normalization/mnist_classifier/trainer)
-
+2. Batch normalization issues 
+- using with tf.layers and tf.estimators [issue](https://github.com/tensorflow/tensorflow/issues/16455) 
+- issue with Keras model_to_estimator <=r1.9 version  [Issue](https://github.com/tensorflow/tensorflow/issues/17950) 
+- keras functional API + BN + Estimator example [Link](https://github.com/GoogleCloudPlatform/training-data-analyst/tree/master/blogs/batch_normalization/mnist_classifier/trainer)
 3. Tensorflow has a modules call, tensorflow.python, in tensorflow keras source code:
     from tensorflow.python.keras import backend as K
 
