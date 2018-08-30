@@ -13,9 +13,16 @@ https://github.com/tensorflow/tensorflow/issues/21412
 AttributeError: 'NoneType' object has no attribute 'merge_call'
 
 2.
-> - [Issue]:
-> - [Solution]:
+> - [Issue]: memory issues
+> - [Solution]: 
+   1) check network, especially fc layer. 
+   2) check channels_first and channels_last 
+   3) input shape is too large, resize. 
+   4) check optimizer like Adam
 > - [Detail]:
+>> 2018-08-06 05:47:33.110207: W tensorflow/core/framework/op_kernel.cc:1295] OP_REQUIRES failed at constant_op.cc:75 : Resource exhausted: OOM when allocating tensor of shape [32256512,512] and type float
+2018-08-06 05:47:57.037241: E tensorflow/core/common_runtime/executor.cc:696] Executor failed to create kernel. Resource exhausted: OOM when allocating tensor of shape [32256512,512] and type float
+         [[Node: block_output_fc1/kernel/Adam/Initializer/zeros = Const[dtype=DT_FLOAT, value=Tensor<type: float shape: [32256512,512] values: [0 0 0]...>, _device="/job:localhost/replica:0/task:0/device:GPU:0"]()]]
 ## Caffe
 
 ## Pytorch
