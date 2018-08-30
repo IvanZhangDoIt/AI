@@ -9,6 +9,19 @@
 
 ## Practical suggestions, Tuning
 
+### Overfitting
+
+1. More data - Data Augmentation
+2. Smaller NET - Bad generalization 
+3. Train - Early Stoppin
+4. regularization
+5. Dropout
+6. Batch Normalization
+7. Cross - Validation [EliteDataSciense](https://elitedatascience.com/machine-learning-iteration#micro)
+
+### Underfitting
+
+
 ### 1. How to choose RNN gate unit  
 
 1. Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling [pdf](http://proceedings.mlr.press/v37/jozefowicz15.pdf)
