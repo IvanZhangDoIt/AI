@@ -31,6 +31,24 @@ AttributeError: 'NoneType' object has no attribute 'merge_call'
     label = tf.one_hot(label, NUM_CLASSES)
     label = tf.reshape(label, [NUM_CLASSES])
    ```
+4. - [issue] tensorflow.python.framework.errors_impl.NotFoundError: Failed to create a NewWriteableFile:
+   - [Solution] change a location not used.
+   - [Detail] as below:
+   ```python
+    Exception in thread Thread-16:Traceback (most recent call last):
+    File "D:\ProgramData\Anaconda3\envs\tensorflow362\lib\threading.py", line 916, in _bootstrap_inner
+      self.run()
+    File "D:\ProgramData\Anaconda3\envs\tensorflow362\lib\threading.py", line 864, in run
+      self._target(*self._args, **self._kwargs)
+    File "build_medical_data.py", line 264, in _process_dicom_files_batch
+      writer = tf.python_io.TFRecordWriter(output_file)
+    File "D:\ProgramData\Anaconda3\envs\tensorflow362\lib\site-packages\tensorflow\python\lib\io\tf_record.py", line 112, in __init__
+      compat.as_bytes(path), compat.as_bytes(compression_type), status)
+    File "D:\ProgramData\Anaconda3\envs\tensorflow362\lib\site-packages\tensorflow\python\framework\errors_impl.py", line 519, in __exit__
+      c_api.TF_GetCode(self.status.status))
+    tensorflow.python.framework.errors_impl.NotFoundError: Failed to create a NewWriteableFile: D:\\tmp\\ct\\ouput\train-00028-of-00032.tfrecords : ϵͳ\udcd5Ҳ\udcbb\udcb5\udcbdָ\udcb6\udca8\udcb5\udcc4·\udcbe\udcb6\udca1\udca3
+    ; No such process
+    ```
 
 ## Caffe
 
