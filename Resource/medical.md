@@ -8,6 +8,10 @@
 
 2. Medical Image Analysis with Deep learning [Part1](https://www.kdnuggets.com/2017/03/medical-image-analysis-deep-learning.html) [Part2](https://www.kdnuggets.com/2017/04/medical-image-analysis-deep-learning-part-2.html)  [Part3](https://www.kdnuggets.com/2017/06/medical-image-analysis-deep-learning-part-3.html)
 
+[Taposh Dutta-Roy blog ](https://medium.com/@taposhdr)
+[Medium Link Part 1](https://medium.com/@taposhdr/medical-image-analysis-with-deep-learning-i-23d518abf531)
+[Medium Link Part 4](https://medium.com/@taposhdr/medical-image-analysis-with-deep-learning-iv-479b5fa446e7)
+
 3. DICOM Image processing group articles [link](https://blog.csdn.net/column/details/dicom.html)
 
 ## Tech and Algorithm
