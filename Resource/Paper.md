@@ -61,3 +61,5 @@
 8. Every Moment Counts: Dense Detailed Labeling of Actions in Complex Videos [Every Moment Counts: Dense Detailed Labeling of Actions in Complex Videos]
 9. Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge [pdf](https://arxiv.org/pdf/1708.02711.pdf)
 10. Visual Question Answering: A Survey of Methods and Datasets [pdf](https://arxiv.org/pdf/1607.05910.pdf)
+11. Show and Tell: A neural image caption generator [pdf](https://arxiv.org/pdf/1411.4555.pdf)
+12. Show Attend and Tell: Neural Image Caption Gerneration with Visual Attention [pdf](https://arxiv.org/pdf/1502.03044.pdf)
