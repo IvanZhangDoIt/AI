@@ -9,3 +9,16 @@
 # NLP related library
 
 1. pydub - [github](https://github.com/jiaaro/pydub)
+
+# Math library
+
+1. Eigen c++ library, linear Algebra [link](http://eigen.tuxfamily.org/)
+2. Sophus - lei group  [git](https://github.com/strasdat/Sophus)
+3. ceres Non-linear optimization [official](http://ceres-solver.org/)
+4. g2o - General Graph Optimization [official](https://openslam-org.github.io/g2o.html)
+
+
+
+# Reference 
+
+1. Open SLAM [link](https://openslam-org.github.io/)
