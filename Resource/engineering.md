@@ -18,6 +18,10 @@
 4. g2o - General Graph Optimization [official](https://openslam-org.github.io/g2o.html)
 
 
+# Other library
+
+1. Seaborn: statistical data visualization [official](https://seaborn.pydata.org/) 
+
 
 # Reference 
 
