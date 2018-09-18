@@ -18,6 +18,7 @@
 ## Architecture and Structure
 
 1. Tensorflow - the confusing part 1 [link](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/) 
+2. Machine Learning crash course [link](https://developers.google.cn/machine-learning/crash-course/prereqs-and-prework)
 
 
 ## Distribution Strategy
