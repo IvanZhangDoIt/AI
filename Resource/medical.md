@@ -1,5 +1,40 @@
 # Mecial
 
+## Medical specific metrics
+
+>In the cancer example, sensitivity and specificity are the following:
+
+> **Sensitivity=Recall**: Of all the people **with** cancer, how many were correctly diagnosed?
+
+> **Specificity**: Of all the people **without** cancer, how many were correctly diagnosed?
+And precision and recall are the following:
+
+>**Recall**: Of all the people who **have cancer**, how many did we diagnose as having cancer?
+
+>**Precision**: Of all the people **we diagnosed** with cancer, how many actually had cancer?
+
+
+
+x|Diagnosed Sick|Diagnosed Healthy|Metrics
+-|:-:|:-:|-:
+Sick|True Positive|False Negative|**Recall=Sensitivity** 
+Healthy|False Positive|True Negative|**Specificity**
+**metrics**|**Precision**
+
+- TP: (True Positives) Sick people that we correctly diagnosed as sick.
+- TN: (True Negatives) Healthy people that we correctly diagnosed as healthy.
+- FP: (False Positives) Healthy people that we incorrectly diagnosed as sick.
+- FN: (False Negatives) Sick people that we incorrectly diagnosed as healthy.
+then:
+
+Sensitivity = $\frac{TP}{TP + FN}$
+
+Specificity = $\frac{TN}{TN + FP}$
+
+Recall = $\frac{TP}{TP + FN}$
+
+Precision = $\frac{TP}{TP + FP}$
+
 ## OSS
 
 ## Medical Image processing
