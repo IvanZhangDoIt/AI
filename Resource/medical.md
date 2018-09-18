@@ -35,6 +35,9 @@ Recall = $\frac{TP}{TP + FN}$
 
 Precision = $\frac{TP}{TP + FP}$
 
+Like ROC curve (Receiver Operator Characteristic curve), people draw Sensitivity/Specificity Curve. 
+[ROC Curve wikipedia](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
+
 ## OSS
 
 ## Medical Image processing

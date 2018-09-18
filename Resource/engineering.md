@@ -33,3 +33,6 @@
 1. Open SLAM [link](https://openslam-org.github.io/)
 2. ImageNet means and standard deviations [0.485, 0.456, 0.406] [0.229, 0.224, 0.225]
 
+# Metrics and Evaluation
+
+1. ROC , Receiver Operator Characteristic curve [ROC Curve wikipedia](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
