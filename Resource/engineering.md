@@ -22,6 +22,11 @@
 
 1. Seaborn: statistical data visualization [official](https://seaborn.pydata.org/) 
 
+# Interesting Projects
+
+1. Deep Traffic  [link](https://selfdrivingcars.mit.edu/deeptraffic/)
+2. Flappy Bird [git](https://github.com/yenchenlin/DeepLearningFlappyBird)
+3. Style Transfer [git](https://github.com/lengstrom/fast-style-transfer)
 
 # Reference 
 
