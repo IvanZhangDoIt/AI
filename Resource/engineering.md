@@ -35,4 +35,8 @@
 
 # Metrics and Evaluation
 
-1. ROC , Receiver Operator Characteristic curve [ROC Curve wikipedia](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
+1. ?? ROC , Receiver Operator Characteristic curve [ROC Curve wikipedia](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
+
+2. Sensitivity Analysis ?? in Cancer detection in the Udacity CVND
+
+3. Confusion Matrices [wikipedia](https://en.wikipedia.org/wiki/Confusion_matrix)

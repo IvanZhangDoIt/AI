@@ -38,6 +38,9 @@ Precision = $\frac{TP}{TP + FP}$
 Like ROC curve (Receiver Operator Characteristic curve), people draw Sensitivity/Specificity Curve. 
 [ROC Curve wikipedia](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
 
+Also refer to [Confusion Matrices wikipedia](https://en.wikipedia.org/wiki/Confusion_matrix)
+
+
 ## OSS
 
 ## Medical Image processing
