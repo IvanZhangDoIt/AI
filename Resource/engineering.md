@@ -26,7 +26,8 @@
 
 1. Deep Traffic  [link](https://selfdrivingcars.mit.edu/deeptraffic/)
 2. Flappy Bird [git](https://github.com/yenchenlin/DeepLearningFlappyBird)
-3. Style Transfer [git](https://github.com/lengstrom/fast-style-transfer)
+3. Style Transfer [github](https://github.com/lengstrom/fast-style-transfer)
+4. Skin Cancer detection [github](https://github.com/udacity/dermatologist-ai)
 
 # Reference 
 
@@ -36,6 +37,7 @@
 # Metrics and Evaluation
 
 1. ?? ROC , Receiver Operator Characteristic curve [ROC Curve wikipedia](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
+[scikit-learn](http://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html#sphx-glr-auto-examples-model-selection-plot-roc-py)
 
 2. Sensitivity Analysis ?? in Cancer detection in the Udacity CVND
 

@@ -63,3 +63,7 @@
 10. Visual Question Answering: A Survey of Methods and Datasets [pdf](https://arxiv.org/pdf/1607.05910.pdf)
 11. Show and Tell: A neural image caption generator [pdf](https://arxiv.org/pdf/1411.4555.pdf)
 12. Show Attend and Tell: Neural Image Caption Gerneration with Visual Attention [pdf](https://arxiv.org/pdf/1502.03044.pdf)
+
+## Medical 
+
+1. Nature: skin cancer detection [nature](https://www.nature.com/articles/nature21056.epdf?author_access_token=8oxIcYWf5UNrNpHsUHd2StRgN0jAjWel9jnR3ZoTv0NXpMHRAJy8Qn10ys2O4tuPakXos4UhQAFZ750CsBNMMsISFHIKinKDMKjShCpHIlYPYUHhNzkn6pSnOCt0Ftf6) [BBC](http://www.bbc.com/news/health-38717928) 
