@@ -60,6 +60,16 @@
 52. CBOW - Continuous Bag-of-Words Model.
 53. NLTK - Natual Language Toolkit [link](http://www.nltk.org/)
 54. Additive , Multiplicative attention model. [link](https://arxiv.org/abs/1508.04025) [link](https://arxiv.org/abs/1409.0473)
+55. PGM - Probabilistic Graphical Model [Stanford](https://ai.stanford.edu/~koller/Papers/Koller+al:SRL07.pdf) [ref](https://blog.statsbot.co/probabilistic-graphical-models-tutorial-and-solutions-e4f1d72af189) [git](https://github.com/prasoongoyal/image-denoising-mrf)
+    CPD - conditional probability distributio
+    DAG - directed acyclic graph
+    Potentil Function-
+    Maximal Clique - 
+    Maximum Clique - the biggest one (size) of all Maximal Cliques 
+    MAP - maximum-a-posteriori inference
+    Belief Propagation - 
+    variable elimination - 
+
 
 ## Medical
 
