@@ -60,8 +60,8 @@
 52. CBOW - Continuous Bag-of-Words Model.
 53. NLTK - Natual Language Toolkit [link](http://www.nltk.org/)
 54. Additive , Multiplicative attention model. [link](https://arxiv.org/abs/1508.04025) [link](https://arxiv.org/abs/1409.0473)
-55. PGM - Probabilistic Graphical Model [Stanford](https://ai.stanford.edu/~koller/Papers/Koller+al:SRL07.pdf) [ref](https://blog.statsbot.co/probabilistic-graphical-models-tutorial-and-solutions-e4f1d72af189) [git](https://github.com/prasoongoyal/image-denoising-mrf)
-    CPD - conditional probability distributio
+55. PGM - Probabilistic Graphical Model [Stanford graphic model in a nutshell](https://ai.stanford.edu/~koller/Papers/Koller+al:SRL07.pdf) [ref](https://blog.statsbot.co/probabilistic-graphical-models-tutorial-and-solutions-e4f1d72af189) [git](https://github.com/prasoongoyal/image-denoising-mrf) [The Clique algorithm](http://www.dharwadker.org/clique/)
+    CPD - conditional probability distribution
     DAG - directed acyclic graph
     Potentil Function-
     Maximal Clique - 
@@ -69,6 +69,28 @@
     MAP - maximum-a-posteriori inference
     Belief Propagation - 
     variable elimination - 
+56. Ensemble learning  
+    - CART Decision Tree - 
+    - Boosting - [wiki](https://en.wikipedia.org/wiki/Boosting_(machine_learning) ) AdaBoost   Boosting Tree->Gradient Boosting Tree, 
+    - XGBoost
+    Bagging - Bootstrap aggregating  [wiki](https://en.wikipedia.org/wiki/Bootstrap_aggregating) bootstrap sampling
+    - Random Forest - 
+
+    Compare:[link](https://blog.csdn.net/moledyzhang/article/details/79498520)
+    - Baggging: Fit many large trees to bootstrap-resampled versions of the    training data, and classify by majority vote
+    - Random Forest: Fancier version of bagging, add one more randomness in variable choosing.
+    - Boosting: Fit many large or small trees to re-weighted versions of the training data. Classify by weighted majority vote. (Random K variable, CART tree)
+    - Adaboost: typical boosting 
+    - GBDT: Adaboost regression version 
+    - XGBoost : X (Extreme) GBoosted
+    - - L1, L2 regularization to avoid overfitting
+    - - Talyor expansion of Objectives
+    - - pruning 
+57. GBDT - Gradient boosting decision tree. [code](http://scikit-learn.org/stable/auto_examples/ensemble/plot_feature_transformation.html#example-ensemble-plot-feature-transformation-py)
+58. Random Forest - Decision Tree + Bagging
+59. AdaBoost - [code example](http://scikit-learn.org/stable/auto_examples/ensemble/plot_adaboost_regression.html#sphx-glr-auto-examples-ensemble-plot-adaboost-regression-py)
+60. XGBoost - [Paper](http://arxiv.org/pdf/1603.02754v1.pdf) [github](https://github.com/dmlc/xgboost) [Slides](https://link.zhihu.com/?target=http%3A//homes.cs.washington.edu/%7Etqchen/pdf/BoostedTree.pdf)
+
 
 
 ## Medical
