@@ -89,8 +89,19 @@
 57. GBDT - Gradient boosting decision tree. [code](http://scikit-learn.org/stable/auto_examples/ensemble/plot_feature_transformation.html#example-ensemble-plot-feature-transformation-py)
 58. Random Forest - Decision Tree + Bagging
 59. AdaBoost - [code example](http://scikit-learn.org/stable/auto_examples/ensemble/plot_adaboost_regression.html#sphx-glr-auto-examples-ensemble-plot-adaboost-regression-py)
-60. XGBoost - [Paper](http://arxiv.org/pdf/1603.02754v1.pdf) [github](https://github.com/dmlc/xgboost) [Slides](https://link.zhihu.com/?target=http%3A//homes.cs.washington.edu/%7Etqchen/pdf/BoostedTree.pdf)
-
+60. XGBoost - [Paper](http://arxiv.org/pdf/1603.02754v1.pdf) [github](https://github.com/dmlc/xgboost) [Slides](https://link.zhihu.com/?target=http%3A//homes.cs.washington.edu/%7Etqchen/pdf/BoostedTree.pdf) [tricks](https://github.com/lytforgood/MachineLearningTrick) [docs](https://xgboost.readthedocs.io/en/latest/index.html) [plotting](https://blog.csdn.net/sb19931201/article/details/65445514) [Awesome XGBoost](https://github.com/dmlc/xgboost/tree/master/demo#usecases)
+61. LightBGM - A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms. Microsoft [github](https://github.com/Microsoft/LightGBM)
+62. Reinforcement Learning - [Stanford Course](http://web.stanford.edu/class/cs234/index.html)-[reference](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/1-1-B-RL-methods/)-[Book](http://incompleteideas.net/book/bookdraft2018jan1.pdf)-[Intro](https://www.youtube.com/watch?v=lvoHnicueoE)
+    - Model-free vs Model-based 
+    - Policy-based vs value-based
+    - Monte-Carlo update vs Temporal-Difference update
+    - On-Policy vs Off-Policy
+    - Q learning - 
+    - Sarsa - 
+    - Deep Q Network - 
+    - Policy Gradient - 
+    - Actor Critic -  
+    - MDP - Markov Decision Process
 
 
 ## Medical
