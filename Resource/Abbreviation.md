@@ -2,7 +2,7 @@
 
 ## Universal Abbreviation
 
-1. GAN - Generative Adversarial Networks 生成对抗网络[中文](https://www.leiphone.com/news/201701/Kq6FvnjgbKK8Lh8N.html)
+1. GAN - Generative Adversarial Networks 生成对抗网络[中文](https://www.leiphone.com/news/201701/Kq6FvnjgbKK8Lh8N.html)-[Paper](https://arxiv.org/abs/1406.2661)
 2. CNN - Convolution Neural Networks 卷积神经网络
 3. RNN - Recurrent Neural Network 循环神经网络
 4. R-CNN -> SppNET -> Fast-RCNN -> Faster-RCNN -> YOLO -> Faster R-CNN with SSD
@@ -13,7 +13,7 @@
 7. SSD - Single Shot MultiBox Detector
 8. YOLO - You Only Look Once [Paper](https://arxiv.org/abs/1506.02640)
 9. YOLO9000 - YOLO-V3[Paper](https://arxiv.org/abs/1612.08242) [Series and compare official](https://pjreddie.com/darknet/yolo/), [Implementation](https://github.com/allanzelener/YAD2K)
-10. mAP-50 - ???
+10. mAP-50 - mean average precisioon
 11. LTSM - Long Short Term Memory
 12. GBDT - Gradient boosting decision tree 梯度提升树
 13. 决策树 [中文](http://www.cnblogs.com/leoo2sk/archive/2010/09/19/decision-tree.html)
@@ -102,6 +102,7 @@
     - Policy Gradient - 
     - Actor Critic -  
     - MDP - Markov Decision Process
+63. semi-supervised learning : [zhihua zhou](http://cs.nju.edu.cn/zhouzh/)-[Improved Techniques for Training GANs](https://arxiv.org/abs/1606.03498)-[practice](https://blog.csdn.net/qq_25737169/article/details/78532719)
 
 
 ## Medical
