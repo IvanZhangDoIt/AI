@@ -2,6 +2,7 @@
 
 1. 天池 练习赛 https://tianchi.aliyun.com/
 2. kaggle
+3. HackerRank
 
 ## Done
 
@@ -51,3 +52,6 @@ Text Summarization| GRU| 200| --| Source: 119K, Target: 68K| 100| 0.001| [paper]
 4.Systematic evaluation of CNN advances on the ImageNet[paper](https://arxiv.org/abs/1606.02228)
 
 5.Tune your network [link](https://pcc.cs.byu.edu/2017/10/02/practical-advice-for-building-deep-neural-networks/) 
+
+## Solution Paradigm
+1. Multi-label questions
