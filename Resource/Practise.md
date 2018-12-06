@@ -54,4 +54,4 @@ Text Summarization| GRU| 200| --| Source: 119K, Target: 68K| 100| 0.001| [paper]
 5.Tune your network [link](https://pcc.cs.byu.edu/2017/10/02/practical-advice-for-building-deep-neural-networks/) 
 
 ## Solution Paradigm
-1. Multi-label questions
+1. Multi-label questions ?
