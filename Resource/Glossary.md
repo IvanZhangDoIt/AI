@@ -104,6 +104,7 @@
     - MDP - Markov Decision Process
 63. semi-supervised learning : [zhihua zhou](http://cs.nju.edu.cn/zhouzh/)-[Improved Techniques for Training GANs](https://arxiv.org/abs/1606.03498)-[practice](https://blog.csdn.net/qq_25737169/article/details/78532719)
 64. Ridge Regression - 
+65. 
 
 ## Medical
 
