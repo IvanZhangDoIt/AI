@@ -104,6 +104,15 @@
     - MDP - Markov Decision Process
 63. semi-supervised learning : [zhihua zhou](http://cs.nju.edu.cn/zhouzh/)-[Improved Techniques for Training GANs](https://arxiv.org/abs/1606.03498)-[practice](https://blog.csdn.net/qq_25737169/article/details/78532719)
 64. Ridge Regression - 
+65. Candidate generation - phrase from Amazon SageMaker presentation. candiates of model
+66. contextual recommendations - base on the distribution of certain columns, drill into domain/knowledge base in a certain area,  so we could get a more clarification on why the data looks like this. try to include as much domain knowledge as you can in the future. 
+67. undifferented heavy lifting - 无差别的繁重工作 handle a lot of  undifferented heavy lifting of machine learning problem solving
+68. imputation strategy -imputation is the process of replacing missing data with substituted values. 估算
+69. Multi-algo HPO: multiple algorithm hyperparameters optimization
+70. RobustImputer : converting missing values to nan for numberic feature , in AWS Autopilot AutoML
+71. ThresholdOneHot encoder: in AWS Autopilot AutoML
+72.
+
 
 ## Medical
 
